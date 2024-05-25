@@ -4,4 +4,5 @@ var c = 2;
 var d = 4;
 VAR E = 5;
 var f = 6;
+VAR G = 7;
 
